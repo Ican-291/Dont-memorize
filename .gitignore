@@ -1,0 +1,55 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+gradle-app.setting
+
+# IDE - Android Studio / IntelliJ
+.idea/
+.navigation/
+captures/
+
+# NDK / CMake
+.externalNativeBuild/
+.cxx/
+
+# Log/OS Files
+*.log
+*.hprof
+Thumbs.db
+
+# Keystore files (安全敏感，绝不提交)
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Test reports
+**/test-results/
+**/androidTest/reports/
